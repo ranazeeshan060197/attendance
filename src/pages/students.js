@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 const Students = () => {
   return (
     <>
-      <h1 className="course-heading">Add Students</h1>
+      <h1 className="course-headings">Add Students</h1>
       <form className="course">
         <div className="mb-3">
           <label for="exampleInputEmail1" className="form-label">
